@@ -1,0 +1,4 @@
+snekmate==0.1.0
+titanoboa @ git+https://github.com/vyperlang/titanoboa.git@e7efc7f3ef73b7f552a806b30dfe15ed638eb994
+vyper==0.4.0
+ruff==0.5.3
